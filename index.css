@@ -1,0 +1,81 @@
+*{
+	font-family: italic ;
+	font-size: bold;
+	letter-spacing: 1px;
+	color: #DADA14 !important;
+}
+
+body{
+	background-image: url(./images/galaxy.jpeg);
+	height: auto;
+  	background-position: center;
+	 background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+
+}
+#icon{
+	column-span: ;
+}
+}
+.ml-aut{
+      left: auto !important;
+      right:0px}
+
+button.info{
+        background-color: #3D3939;
+        border-radius: 10px;
+        color: #eeeeee;
+        font-size: 20px;
+        width: 200px;
+}
+
+#footer {
+  position: bottom;
+  bottom: 0;
+  width: 100%;
+  padding-top: 5rem;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+#tag{
+	font-size: 20px;
+}
+
+a:hover {text-decoration: none;}
+
+#image{
+	width: auto;
+
+}
+
+#image > .img{
+	width: 100px;
+	height: 100px;
+	margin: 2rem;
+
+}
+/*border index2.html*/
+.border{
+	border-radius: 25px;
+  width: 200px;
+  height: auto;
+}
+
+/*carousel*/
+#carousel{
+	width: 40%;
+	column-rule-width: 100%;
+	column-width: auto;
+}
+
+
+
+
+
+
+
+
